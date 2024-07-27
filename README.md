@@ -1,255 +1,196 @@
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<a id="readme-top"></a>
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+
+<!-- PROJECT LOGO -->
+<br />
 <div align="center">
-  <br />
-    <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/nike_landing_page/assets/151519281/36013f49-ba13-47ad-a6c4-f9d58bfae7fc" alt="Project Banner">
-    </a>
-  <br />
-  <div>
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
-  <h3 align="center">TailwindCSS Mastery: Nike Landing Page</h3>
-   <div align="center">
-     Build this project step by step with my detailed tutorial. Join me on this learning journey!
-    </div>
+  <a href="https://github.com/github_username/NikeLandingPage">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">Nike Landing Page</h3>
+
+  <p align="center">
+    Build a beautiful Nike landing page using React and Tailwind CSS
+    <br />
+    <a href="https://github.com/github_username/NikeLandingPage"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/github_username/NikeLandingPage">View Demo</a>
+    ·
+    <a href="https://github.com/github_username/NikeLandingPage/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/github_username/NikeLandingPage/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
 </div>
-📋 <a name="table">Table of Contents</a>
-🤖 Introduction
-⚙️ Tech Stack
-🔋 Features
-🤸 Quick Start
-🕸️ Snippets
-🔗 Links
-🚀 More
-🚨 Tutorial
-This repository contains the code for an in-depth tutorial available on my YouTube channel.
 
-If you prefer visual learning, this is the perfect resource for you. Follow my tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
-<a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
-<a name="introduction">🤖 Introduction</a>
-Master Tailwind CSS by first learning fundamentals, advanced techniques, and theming. Then, build a stunning Nike landing page, applying learned skills to create a visually impressive website.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
 
-If you're getting started and need assistance or face any bugs, join our active community. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
-<a name="tech-stack">⚙️ Tech Stack</a>
-Tailwind CSS
-React.js
-<a name="features">🔋 Features</a>
-👉 Maximizing Tailwind CSS: Discover tips and tricks to make the most out of Tailwind CSS.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-👉 Understanding Tailwind Internals: Dive into the inner workings of Tailwind, gaining insights into its structure and optimizations.
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-👉 Best Practices: Learn Tailwind's best practices for efficient and maintainable code.
+Nike Landing Page is a comprehensive project built with React and Tailwind CSS, aiming to create a stunning landing page for Nike. The project focuses on leveraging the full potential of Tailwind CSS to create a beautiful and functional website.
 
-👉 Theming: Explore techniques to add different themes to your website using Tailwind CSS.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👉 JavaScript-like Tasks with Tailwind: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code while building a beautiful Nike Website with a,
 
-👉 Complex Hero Section: A visually appealing hero section showcasing key elements.
 
-👉 Popular Products Showcase: A section highlighting popular Nike products.
+### Built With
 
-👉 About Us Section: An informative "About Us" section with a unique design.
+* [![React][React.js]][React-url]
+* [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 
-👉 Special Offers: Showcase special offers in an eye-catching manner.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👉 Testimonials: A testimonials section for a captivating user experience.
 
-👉 Newsletter Integration: A newsletter section with Tailwind styling, encouraging user engagement.
 
-👉 Footer: A comprehensive footer section containing various links.
+<!-- GETTING STARTED -->
+## Getting Started
 
-👉 Mobile Responsive: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-...and many more, including code architecture and reusability.
+### Prerequisites
 
-<a name="quick-start">🤸 Quick Start</a>
-Follow these steps to set up the project locally on your machine.
-
-Prerequisites
-
-Make sure you have the following installed on your machine:
-
-Git
-Node.js
-npm (Node Package Manager)
-Cloning the Repository
-
-bash
-Copy code
-git clone https://github.com/your-username/nike_landing_page.git
-cd nike_landing_page
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
 Installation
-
-Install the project dependencies using npm:
-
-bash
+Clone the repo
+sh
+Copy code
+git clone https://github.com/github_username/NikeLandingPage.git
+Install NPM packages
+sh
 Copy code
 npm install
-Running the Project
-
-bash
+Run the project
+sh
 Copy code
 npm start
-Open http://localhost:5173 in your browser to view the project.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- USAGE EXAMPLES -->
+Usage
+This project demonstrates the use of React and Tailwind CSS to build a feature-rich landing page. Below are some key features:
 
-<a name="snippets">🕸️ Snippets</a>
-<details>
-<summary><code>.eslintrc.cjs</code></summary>
-javascript
-Copy code
-module.exports = {
-  root: true,
-  env: { browser: true, es2020: true },
-  extends: [
-    'eslint:recommended',
-    'plugin:react/recommended',
-    'plugin:react/jsx-runtime',
-    'plugin:react-hooks/recommended',
-  ],
-  ignorePatterns: ['dist', '.eslintrc.cjs'],
-  parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
-  settings: { react: { version: '18.2' } },
-  plugins: ['react-refresh'],
-  rules: {
-    'react-refresh/only-export-components': [
-      'warn',
-      { allowConstantExport: true },
-    ],
-    "react/prop-types": 0
-  },
-}
-</details>
-<details>
-<summary><code>constants.index.js</code></summary>
-javascript
-Copy code
-import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
-import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
+Features
+Maximizing Tailwind CSS: Discover tips and tricks to make the most out of Tailwind CSS.
+Understanding Tailwind Internals: Dive into the inner workings of Tailwind, gaining insights into its structure and optimizations.
+Best Practices: Learn Tailwind's best practices for efficient and maintainable code.
+Theming: Explore techniques to add different themes to your website using Tailwind CSS.
+JavaScript-like Tasks with Tailwind: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code.
+Complex Hero Section: A visually appealing hero section showcasing key elements.
+Popular Products Showcase: A section highlighting popular Nike products.
+About Us Section: An informative "About Us" section with a unique design.
+Special Offers: Showcase special offers in an eye-catching manner.
+Testimonials: A testimonials section for a captivating user experience.
+Newsletter Integration: A newsletter section with Tailwind styling, encouraging user engagement.
+Footer: A comprehensive footer section containing various links.
+Mobile Responsive: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
+For more examples, please refer to the Documentation
 
-export const navLinks = [
-    { href: "#home", label: "Home" },
-    { href: "#about-us", label: "About Us" },
-    { href: "#products", label: "Products" },
-    { href: "#contact-us", label: "Contact Us" },
-];
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- ROADMAP -->
+Roadmap
+ Complex Hero Section
+ Popular Products Showcase
+ About Us Section
+ Special Offers
+ Testimonials
+ Newsletter Integration
+ Footer
+ Mobile Responsive
+See the open issues for a full list of proposed features (and known issues).
 
-export const shoes = [
-    {
-        thumbnail: thumbnailShoe1,
-        bigShoe: bigShoe1,
-    },
-    {
-        thumbnail: thumbnailShoe2,
-        bigShoe: bigShoe2,
-    },
-    {
-        thumbnail: thumbnailShoe3,
-        bigShoe: bigShoe3,
-    },
-];
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- CONTRIBUTING -->
+Contributing
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
-];
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
 
-export const products = [
-    {
-        imgURL: shoe4,
-        name: "Nike Air Jordan-01",
-        price: "$200.20",
-    },
-    {
-        imgURL: shoe5,
-        name: "Nike Air Jordan-10",
-        price: "$210.20",
-    },
-    {
-        imgURL: shoe6,
-        name: "Nike Air Jordan-100",
-        price: "$220.20",
-    },
-    {
-        imgURL: shoe7,
-        name: "Nike Air Jordan-001",
-        price: "$230.20",
-    },
-];
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LICENSE -->
+License
+Distributed under the MIT License. See LICENSE.txt for more information.
 
-export const services = [
-    {
-        imgURL: truckFast,
-        label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
-    },
-    {
-        imgURL: shieldTick,
-        label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
-    },
-    {
-        imgURL: support,
-        label: "Love to help you",
-        subtext: "Our dedicated team is here to assist you every step of the way."
-    },
-];
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- CONTACT -->
+Contact
+Your Name - @twitter_handle - email@email_client.com
 
-export const reviews = [
-    {
-        imgURL: customer1,
-        customerName: 'Morich Brown',
-        rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
-    },
-    {
-        imgURL: customer2,
-        customerName: 'Lota Mongeskar',
-        rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
-    }
-];
+Project Link: https://github.com/github_username/NikeLandingPage
 
-
-export const footerLinks = [
-    {
-        title: "Products",
-        links: [
-            { name: "Air Force 1", link: "/" },
-            { name: "Air Max 1", link: "/" },
-            { name: "Air Jordan 1", link: "/" },
-            { name: "Air Force 2", link: "/" },
-            { name: "Nike Waffle Racer", link: "/" },
-            { name: "Nike Cortez", link: "/" },
-        ],
-    },
-    {
-        title: "Help",
-        links: [
-            { name: "About us", link: "/" },
-            { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
-            { name: "Contact us", link: "/" },
-        ],
-    },
-    {
-        title: "Get in touch",
-        links: [
-            { name: "Contact us", link: "/" },
-            { name: "Support center", link: "/" },
-            { name: "Privacy Policy", link: "/" },
-            { name: "Terms & Conditions", link: "/" },
-        ],
-    },
-];
-
-export const socials = [
-    { icon: facebook, link: "/" },
-    { icon: instagram, link: "/" },
-    { icon: twitter, link: "/" },
-];
-</details>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- ACKNOWLEDGMENTS -->
+Acknowledgments
+Tailwind CSS Documentation
+React Documentation
+FontAwesome
+Unsplash
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
