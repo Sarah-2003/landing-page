@@ -1,7 +1,7 @@
 # Nike Landing Page
 
 <div align="center">
-  <img src="https://your-image-url-here.com/project-banner.png" alt="Nike Landing Page Banner" width="600">
+  <alt="Nike Landing Page Banner" width="600">
 </div>
 
 A modern, responsive landing page for Nike, built with React and Tailwind CSS. This project showcases a sleek design with interactive elements, dark mode support, and optimized performance.
@@ -49,30 +49,41 @@ A modern, responsive landing page for Nike, built with React and Tailwind CSS. T
 4. Open your browser and visit `http://localhost:5173`
 
 ## 🏗️ Project Structure
-src/
-├── assets/
-│ ├── icons/
-│ └── images/
-├── components/
-│ ├── Button.jsx
-│ ├── Nav.jsx
-│ ├── ShoeCard.jsx
-│ ├── PopularProductCard.jsx
-│ ├── ServiceCard.jsx
-│ └── ReviewCard.jsx
-├── constants/
-│ └── index.js
-├── sections/
-│ ├── Hero.jsx
-│ ├── PopularProducts.jsx
-│ ├── SuperQuality.jsx
-│ ├── Services.jsx
-│ ├── SpecialOffer.jsx
-│ ├── CustomerReviews.jsx
-│ ├── Subscribe.jsx
-│ └── Footer.jsx
-├── App.jsx
-└── index.css
+
+The project is organized into several key directories and files:
+
+### Assets
+Located in the `src/assets/` directory, this folder contains all static resources used in the project, including:
+- Icons: SVG and PNG files for various UI elements
+- Images: Product images, backgrounds, and other visual assets
+
+### Components
+The `src/components/` directory houses reusable React components that are used throughout the application. Key components include:
+- Navigation bar
+- Custom buttons
+- Product cards
+- Service cards
+- Review cards
+
+### Constants
+The `src/constants/` directory contains JavaScript files that define constant values used across the application, such as product data, navigation links, and configuration settings.
+
+### Sections
+The `src/sections/` directory contains React components that represent major sections of the landing page, including:
+- Hero section
+- Popular Products showcase
+- Super Quality highlight
+- Services overview
+- Special Offers
+- Customer Reviews
+- Newsletter Subscription
+- Footer
+
+### Root Files
+- `src/App.jsx`: The main React component that composes the entire application
+- `src/index.css`: Global styles and Tailwind CSS imports
+
+This structure promotes modularity and separation of concerns, making the codebase easier to navigate and maintain. Components are designed to be reusable, while sections represent larger, page-specific elements that compose the overall layout of the landing page.
 
 ## 🧩 Components
 
