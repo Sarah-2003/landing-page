@@ -1,126 +1,108 @@
+rewrite everything and remove personal details and contact info
+ChatGPT
 <div align="center">
   <br />
-    <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
-      <img src="https://github.com/adrianhajdin/nike_landing_page/assets/151519281/36013f49-ba13-47ad-a6c4-f9d58bfae7fc" alt="Project Banner">
-    </a>
+    <img src="https://github.com/adrianhajdin/nike_landing_page/assets/151519281/36013f49-ba13-47ad-a6c4-f9d58bfae7fc" alt="Project Banner">
   <br />
-
   <div>
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
-
   <h3 align="center">TailwindCSS Crash Course</h3>
-
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+     Build this project step by step with our detailed tutorial on YouTube. Learn and join the community!
     </div>
 </div>
+📋 <a name="table">Table of Contents</a>
+🤖 Introduction
+⚙️ Tech Stack
+🔋 Features
+🤸 Quick Start
+🕸️ Snippets
+🔗 Links
+🚀 More
+🚨 Tutorial
+This repository contains the code for an in-depth tutorial available on YouTube.
 
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+If you prefer visual learning, this is the perfect resource for you. Follow the tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
-## <a name="introduction">🤖 Introduction</a>
-
+<a name="introduction">🤖 Introduction</a>
 Master Tailwind CSS in two parts by first learning fundamentals, advanced techniques, and theming. Then, build a stunning Nike landing page, applying learned skills to create a visually impressive website.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+If you need assistance or face any bugs, join an active Discord community for help.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+<a name="tech-stack">⚙️ Tech Stack</a>
+Tailwind CSS
+React.js
+<a name="features">🔋 Features</a>
+👉 Maximizing Tailwind CSS: Discover tips and tricks to make the most out of Tailwind CSS.
 
-- Tailwind CSS
-- React.js
+👉 Understanding Tailwind Internals: Dive into the inner workings of Tailwind, gaining insights into its structure and optimizations.
 
-## <a name="features">🔋 Features</a>
+👉 Best Practices: Learn Tailwind's best practices for efficient and maintainable code.
 
-👉 **Maximizing Tailwind CSS**: Discover tips and tricks to make the most out of Tailwind CSS.
+👉 Theming: Explore techniques to add different themes to your website using Tailwind CSS.
 
-👉 **Understanding Tailwind Internals**: Dive into the inner workings of Tailwind, gaining insights into its structure and optimizations.
-
-👉 **Best Practices**: Learn Tailwind's best practices for efficient and maintainable code.
-
-👉 **Theming**:Explore techniques to add different themes to your website using Tailwind CSS.
-
-👉 **JavaScript-like Tasks with Tailwind**: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
+👉 JavaScript-like Tasks with Tailwind: Discover how Tailwind CSS can be used to achieve tasks that typically require JavaScript code
 
 while building a beautiful Nike Website with a,
 
-👉 **Complex Hero Section**: A visually appealing hero section showcasing key elements.
+👉 Complex Hero Section: A visually appealing hero section showcasing key elements.
 
-👉 **Popular Products Showcase**: A section highlighting popular Nike products
+👉 Popular Products Showcase: A section highlighting popular Nike products
 
-👉 **About Us Section**: An informative "About Us" section with a unique design.
+👉 About Us Section: An informative "About Us" section with a unique design.
 
-👉 **Special Offers**: Showcase special offers in an eye-catching manner
+👉 Special Offers: Showcase special offers in an eye-catching manner
 
-👉 **Testimonials**: A testimonials section for a captivating user experience
+👉 Testimonials: A testimonials section for a captivating user experience
 
-👉 **Newsletter Integration**: A newsletter section with Tailwind styling, encouraging user engagement
+👉 Newsletter Integration: A newsletter section with Tailwind styling, encouraging user engagement
 
-👉 **Footer**: A comprehensive footer section containing various links
+👉 Footer: A comprehensive footer section containing various links
 
-👉 **Mobile Responsive**: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
+👉 Mobile Responsive: The entire website is responsive across various devices, emphasizing Tailwind's mobile-friendly capabilities.
 
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
-## <a name="quick-start">🤸 Quick Start</a>
-
+<a name="quick-start">🤸 Quick Start</a>
 Follow these steps to set up the project locally on your machine.
 
-**Prerequisites**
+Prerequisites
 
 Make sure you have the following installed on your machine:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+Git
+Node.js
+npm (Node Package Manager)
+Cloning the Repository
 
-**Cloning the Repository**
-
-```bash
+bash
+Copy code
 git clone https://github.com/adrianhajdin/nike_landing_page.git
 cd nike_landing_page
-```
-
-**Installation**
+Installation
 
 Install the project dependencies using npm:
 
-```bash
+bash
+Copy code
 npm install
-```
+Running the Project
 
-
-**Running the Project**
-
-```bash
+bash
+Copy code
 npm start
-```
+Open http://localhost:5173 in your browser to view the project.
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
-## <a name="snippets">🕸️ Snippets</a>
-
+<a name="snippets">🕸️ Snippets</a>
 <details>
 <summary><code>.eslintrc.cjs</code></summary>
-
-```javascript
+javascript
+Copy code
 module.exports = {
   root: true,
   env: { browser: true, es2020: true },
@@ -142,14 +124,11 @@ module.exports = {
     "react/prop-types": 0
   },
 }
-```
-
 </details>
-
 <details>
 <summary><code>constants.index.js</code></summary>
-
-```javascript
+javascript
+Copy code
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
@@ -264,185 +243,192 @@ export const footerLinks = [
         title: "Get in touch",
         links: [
             { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "+91-123456789", link: "tel:+91123456789" },
         ],
     },
 ];
 
-export const socialMedia = [
-    { src: facebook, alt: "facebook logo" },
-    { src: twitter, alt: "twitter logo" },
-    { src: instagram, alt: "instagram logo" },
+export const socialLinks = [
+    { platform: 'Facebook', link: "https://www.facebook.com", icon: facebook },
+    { platform: 'Instagram', link: "https://www.instagram.com", icon: instagram },
+    { platform: 'Twitter', link: "https://www.twitter.com", icon: twitter },
 ];
-```
-
 </details>
-
 <details>
-<summary><code>index.css</code></summary>
+<summary><code>src/App.jsx</code></summary>
+javascript
+Copy code
+import React from 'react';
+import './App.css';
+import {
+  Home,
+  AboutUs,
+  Products,
+  ContactUs,
+} from './components';
 
-```css
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Palanquin:wght@100;200;300;400;500;600;700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Palanquin:wght@100;200;300;400;500;600;700&display=swap");
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  scroll-behavior: smooth;
+function App() {
+  return (
+    <div className="App">
+      <Home />
+      <AboutUs />
+      <Products />
+      <ContactUs />
+    </div>
+  );
 }
 
-@layer components {
-  .max-container {
-    max-width: 1440px;
-    margin: 0 auto;
-  }
-
-  .input {
-    @apply sm:flex-1 max-sm:w-full text-base leading-normal text-slate-gray pl-5 max-sm:p-5 outline-none sm:border-none border max-sm:border-slate-gray max-sm:rounded-full;
-  }
-}
-
-@layer utilities {
-  .padding {
-    @apply sm:px-16 px-8 sm:py-24 py-12;
-  }
-
-  .padding-x {
-    @apply sm:px-16 px-8;
-  }
-
-  .padding-y {
-    @apply sm:py-24 py-12;
-  }
-
-  .padding-l {
-    @apply sm:pl-16 pl-8;
-  }
-
-  .padding-r {
-    @apply sm:pr-16 pr-8;
-  }
-
-  .padding-t {
-    @apply sm:pt-24 pt-12;
-  }
-
-  .padding-b {
-    @apply sm:pb-24 pb-12;
-  }
-
-  .info-text {
-    @apply font-montserrat text-slate-gray text-lg leading-7;
-  }
-}
-```
-
+export default App;
 </details>
-
 <details>
-<summary><code>script.js</code></summary>
+<summary><code>src/components/Home.jsx</code></summary>
+javascript
+Copy code
+import React from 'react';
+import { shoes, statistics } from '../constants';
 
-```javascript
-// To showcase the demo of dark theme. Copy paste :)
-<script type="text/javascript">
-  document.addEventListener("DOMContentLoaded", () => {
-    const toggleDark = document.getElementById('toggleDark')
-    toggleDark.addEventListener('click', function() {
-      if(document.documentElement.classList.includes('dark')) {
-        document.documentElement.classList.remove('dark')
-      }
-      else {
-        document.documentElement.classList.add('dark')
-      }
-      alert("click!")
-    });
-  });
-</script>
-```
+const Home = () => {
+  return (
+    <section id="home">
+      <div className="container mx-auto px-4 py-8">
+        <h1 className="text-4xl font-bold text-center mb-8">Welcome to Nike Store</h1>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {shoes.map((shoe, index) => (
+            <div key={index} className="shadow-lg rounded-lg p-4">
+              <img src={shoe.thumbnail} alt="Shoe Thumbnail" className="rounded-t-lg w-full" />
+              <img src={shoe.bigShoe} alt="Shoe" className="rounded-b-lg w-full mt-4" />
+            </div>
+          ))}
+        </div>
+        <div className="flex justify-around mt-8">
+          {statistics.map((stat, index) => (
+            <div key={index} className="text-center">
+              <h2 className="text-2xl font-bold">{stat.value}</h2>
+              <p className="text-gray-600">{stat.label}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
 
+export default Home;
 </details>
-
 <details>
-<summary><code>tailwind.config.js</code></summary>
+<summary><code>src/components/AboutUs.jsx</code></summary>
+javascript
+Copy code
+import React from 'react';
+import { services } from '../constants';
 
-```javascript
-/** @type {import('tailwindcss').Config} */
-export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
-  theme: {
-    fontSize: {
-      xs: ['12px', '16px'],
-      sm: ['14px', '20px'],
-      base: ['16px', '19.5px'],
-      lg: ['18px', '21.94px'],
-      xl: ['20px', '24.38px'],
-      '2xl': ['24px', '29.26px'],
-      '3xl': ['28px', '50px'],
-      '4xl': ['48px', '58px'],
-      '8xl': ['96px', '106px']
-    },
-    extend: {
-      fontFamily: {
-        palanquin: ['Palanquin', 'sans-serif'],
-        montserrat: ['Montserrat', 'sans-serif'],
-      },
-      colors: {
-        'primary': "#ECEEFF",
-        "coral-red": "#FF6452",
-        "slate-gray": "#6D6D6D",
-        "pale-blue": "#F5F6FF",
-        "white-400": "rgba(255, 255, 255, 0.80)"
-      },
-      boxShadow: {
-        '3xl': '0 10px 40px rgba(0, 0, 0, 0.1)'
-      },
-      backgroundImage: {
-        'hero': "url('assets/images/collection-background.svg')",
-        'card': "url('assets/images/thumbnail-background.svg')",
-      },
-      screens: {
-        "wide": "1440px"
-      }
-    },
-  },
-  plugins: [],
-}
-```
+const AboutUs = () => {
+  return (
+    <section id="about-us" className="bg-gray-100 py-8">
+      <div className="container mx-auto px-4">
+        <h2 className="text-3xl font-bold text-center mb-8">About Us</h2>
+        <div className="flex flex-col md:flex-row justify-around">
+          {services.map((service, index) => (
+            <div key={index} className="text-center mb-8 md:mb-0">
+              <img src={service.imgURL} alt={service.label} className="mx-auto mb-4" />
+              <h3 className="text-2xl font-bold">{service.label}</h3>
+              <p className="text-gray-600">{service.subtext}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
 
+export default AboutUs;
 </details>
+<details>
+<summary><code>src/components/Products.jsx</code></summary>
+javascript
+Copy code
+import React from 'react';
+import { products } from '../constants';
 
-## <a name="links">🔗 Links</a>
+const Products = () => {
+  return (
+    <section id="products" className="py-8">
+      <div className="container mx-auto px-4">
+        <h2 className="text-3xl font-bold text-center mb-8">Our Products</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          {products.map((product, index) => (
+            <div key={index} className="shadow-lg rounded-lg p-4">
+              <img src={product.imgURL} alt={product.name} className="rounded-lg w-full" />
+              <h3 className="text-2xl font-bold mt-4">{product.name}</h3>
+              <p className="text-gray-600">{product.price}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
 
-- Assets used in the project are [here](https://drive.google.com/file/d/1ccqjc8gJ7CLvXT_vUhVT4Gmys-Ze13FK/view)
-- [Tailwind Play](https://play.tailwindcss.com/)
+export default Products;
+</details>
+<details>
+<summary><code>src/components/ContactUs.jsx</code></summary>
+javascript
+Copy code
+import React from 'react';
 
-## <a name="more">🚀 More</a>
+const ContactUs = () => {
+  return (
+    <section id="contact-us" className="bg-gray-100 py-8">
+      <div className="container mx-auto px-4">
+        <h2 className="text-3xl font-bold text-center mb-8">Contact Us</h2>
+        <form className="max-w-xl mx-auto">
+          <div className="mb-4">
+            <label htmlFor="name" className="block text-gray-700">Name</label>
+            <input
+              type="text"
+              id="name"
+              className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+          </div>
+          <div className="mb-4">
+            <label htmlFor="email" className="block text-gray-700">Email</label>
+            <input
+              type="email"
+              id="email"
+              className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+            />
+          </div>
+          <div className="mb-4">
+            <label htmlFor="message" className="block text-gray-700">Message</label>
+            <textarea
+              id="message"
+              className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+              rows="4"
+            />
+          </div>
+          <div className="text-center">
+            <button
+              type="submit"
+              className="px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            >
+              Send Message
+            </button>
+          </div>
+        </form>
+      </div>
+    </section>
+  );
+};
 
-**Advance your skills with Next.js 14 Pro Course**
+export default ContactUs;
+</details>
+<a name="links">🔗 Links</a>
+GitHub Repository: Nike Landing Page
+YouTube Tutorial: Nike Landing Page Tutorial
+Discord Community: Join Us
+Tailwind CSS Documentation: Official Documentation
+<a name="more">🚀 More</a>
+If you have any questions or encounter any issues, feel free to reach out through the GitHub Issues section or the Discord Community. We're here to help!
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
+Happy Coding! 💻
