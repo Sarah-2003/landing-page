@@ -32,7 +32,7 @@ A modern, responsive landing page for Nike, built with React and Tailwind CSS. T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/nike_landing_page.git
+   git clone https://github.com/Sarah-2003/nike_landing_page.git
    cd nike_landing_page
    ```
 
